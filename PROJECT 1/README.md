@@ -47,15 +47,15 @@ Using the mv command to entirely move files from a directory to another. It acn 
 
 ## STEP 6 - USING MKDIR AND RMDIR COMMANDS
 
-Using the mkdir command to make or create a directory 
+Using the mkdir command to make or create a directory.
 
-The rmdir command can also be used to remove or delete any directory 
+The rmdir command can also be used to remove or delete any directory.
 
 ![Alt text](images/RMDIR.png)
 
 ## STEP 7 - USING RM AND TOUCH COMMANDS
 
-Using the touch command to create files as seen in the image 
+Using the touch command to create files as seen in the image.
 
 The rm command can also be used to remove or delete files in a directory
 
@@ -63,7 +63,7 @@ The rm command can also be used to remove or delete files in a directory
 
 ## STEP 8 - USING FIND COMMAND
 
-Using the find command to search for a particular file in a directory
+Using the find command to search for a particular file in a directory.
 
 ![Alt text](images/FIND.png)
 
